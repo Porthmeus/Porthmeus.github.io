@@ -1,5 +1,5 @@
 ---
-title: "Student Assistant"
+title: "Open Vacancy: Student Assistant"
 subtitle: "Help Create a Comprehensive Database for Metabolic Models for Individual Bacterial Taxa"
 output: 
     prettydoc::html_pretty: 
