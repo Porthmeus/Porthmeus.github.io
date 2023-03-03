@@ -1,6 +1,6 @@
 ---
 title: Dr. Jan Taubenheim
-author: Computational biologist working in host microbe interactions and a specific interest in life-history decisions and phenotypic plasticity.
+subtitle: Computational biologist working in host microbe interactions with a specific interest in life-history decisions and phenotypic plasticity.
 output: 
     prettydoc::html_pretty: 
         theme: cayman
@@ -24,7 +24,7 @@ knitr::opts_chunk$set(warning=FALSE, message=FALSE, fig.width = 10, fig.height=5
 knitr::include_graphics("../img/IMG_3192_pp.jpg")
 ```
 
-# What drives me
+# About me
 
 
 I am postdoc in the Kaleta-lab at the University Clinic Schleswig-Holstein, Kiel, Germany, and use metabolic modeling to investigate host-microbe interactions. Before that, I tried to understand how temperature and microbes change developmental decisions in the freshwater polyp Hydra - still a hidden passion of mine.
