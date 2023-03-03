@@ -32,7 +32,7 @@ I am postdoc in the Kaleta-lab at the University Clinic Schleswig-Holstein, Kiel
 
 # Contact
 
-+ Mail: [j.taubenheim@iem.uni-kiel.de](j.taubenheim@iem.uni-kiel.de)
++ Mail: [j.taubenheim@iem.uni-kiel.de](mailto:j.taubenheim@iem.uni-kiel.de)
 + Mastodon: [\@JanTaubenheim](https://mstdn.science/@JanTaubenheim)
 - ORCID: [0000-0001-7283-1768](https://orcid.org/0000-0001-7283-1768)
 
