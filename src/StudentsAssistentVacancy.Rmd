@@ -1,0 +1,47 @@
+---
+title: "Student Assistant"
+subtitle: "Help Create a Comprehensive Database for Metabolic Models for Individual Bacterial Taxa"
+output: 
+    prettydoc::html_pretty: 
+        theme: cayman
+        highlight: github
+        use_bookdown: TRUE
+       # toc: TRUE
+#csl: "./citationStyle.csl"
+link-citations: true
+---
+
+
+Are you interested in contributing to cutting-edge research in the field of metagenomics and microbial ecology? Then do not miss out this opportunity:
+
+# What do we do?
+
+```{r QRcode,echo = FALSE, out.extra='style = "float: right;margin-left: 10px;margin-top: 10px;"', fig.link = "https://www.iem.uni-kiel.de/de/medizinische-systembiologie"}
+knitr::include_graphics("../img/WhoWeAreQR.png")
+```
+
+The role of bacterial symbiosis in maintaining and regulating healthy microbiomes is essential for their respective hosts as dysbiosis can cause serious medical conditions such as inflammatory or autoimmune diseases. We, the medical systems biology group at the UKSH Kiel, use metagenomics and metabolic modeling to study bacterial interactions and find possible interventions to shape microbiomes. To advance this work, we want to establish a database of metabolic models for different microbiomes associated with host organisms, enabling the prediction of metabolic interactions and promoting future research in the area. 
+
+
+# How can you help us?
+
+We are seeking a motivated student's assistant to join our research project. As a part of our team, you will support the project by creating a publicly available database of bacterial taxa and their metabolic interactions.
+Your profile:
+
++ Interest and willingness to learn!
++ Ideally you also bring some of the following to the table:
+    + Familiarity with unix environments (Linux, MacOS)
+    + Basic programming skills, preferably in Python and/or R
+    + Knowledge about current sequencing techniques
+    + Interest in modeling approaches
+    + Ideally experience with SQL databases
+    + Good command of spoken and written English
+
+This position is open to students from any relevant field, including biology, computer science, medicine, chemistry, physics and mathematics.
+
+# What do we offer?
+
+You will have the chance to work in a supportive environment, learn new skills, and make a valuable contribution to the field of microbiome research. The topic is generally suitable as part of a Bachelor or Master thesis.
+Join us in this exciting opportunity to explore the metabolic capabilities of bacterial communities and contribute to a publicly available database.
+
+Apply now by contacting Jan Taubenheim: [jtaubenheim@iem.uni-kiel.de](j.taubenheim@iem.uni-kiel.de)

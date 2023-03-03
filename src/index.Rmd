@@ -1,0 +1,85 @@
+---
+title: Dr. Jan Taubenheim
+author: Computational biologist working in host microbe interactions and a specific interest in life-history decisions and phenotypic plasticity.
+output: 
+    prettydoc::html_pretty: 
+        theme: cayman
+        highlight: github
+        use_bookdown: TRUE
+        toc: TRUE
+#bibliography: ["/home/jan/Work/Administration/Homepage/Personal/Porthmeus.github.io/MyPublications.bib"]
+bibliography: ["../dat/MyPublications.bib"]
+nocite: '@*'
+csl: "../dat/citationStyle.csl"
+link-citations: true
+---
+
+
+```{r knitrSetup, include=FALSE, echo = FALSE}
+knitr::opts_chunk$set(warning=FALSE, message=FALSE, fig.width = 10, fig.height=5)
+#knitr::read_chunk("path/to/chunks")
+```
+
+```{r QRcode,echo = FALSE,out.height = "150px",out.width = "117px", out.extra='style = "float: left;margin-right: 10px;margin-top: 25px;"'}
+knitr::include_graphics("../img/IMG_3192_pp.jpg")
+```
+
+# What drives me
+
+
+I am postdoc in the Kaleta-lab at the University Clinic Schleswig-Holstein, Kiel, Germany, and use metabolic modeling to investigate host-microbe interactions. Before that, I tried to understand how temperature and microbes change developmental decisions in the freshwater polyp Hydra - still a hidden passion of mine.
+
+
+# Contact
+
++ Mail: [j.taubenheim@iem.uni-kiel.de](j.taubenheim@iem.uni-kiel.de)
++ Mastodon: [\@JanTaubenheim](https://mstdn.science/@JanTaubenheim)
+- ORCID: [0000-0001-7283-1768](https://orcid.org/0000-0001-7283-1768)
+
+  
+
+
+# CV
+
+<table>
+<tbody>
+  <tr>
+    <td class="tg-uzvj">Since 10/2020</td>
+    <td class="tg-uzvj">Research Fellow</td>
+    <td class="tg-uzvj">Institute for Experimental Medicine, Medical Systems Biology, University Clinic Schleswig-Holstein, Kiel, Germany</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">03/2019-09/2020</td>
+    <td class="tg-lboi">Research Fellow</td>
+    <td class="tg-lboi">Institute for Zoology and Organismic Interaction, Heinrich Heine University Düsseldorf, Germany</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">10/2013-12/2018</td>
+    <td class="tg-lboi">PhD student &amp; Research Fellow</td>
+    <td class="tg-lboi">Institute for Zoology, Christian-Albrechts-University Kiel, Germany</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">10/2011-09/2013</td>
+    <td class="tg-lboi">Master Medical Biology</td>
+    <td class="tg-lboi">University Duisburg-Essen, Germany</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">10/2008-09/2011</td>
+    <td class="tg-cly1">Bachelor Medical Biotechnology</td>
+    <td class="tg-cly1">University Rostock, Germany</td>
+  </tr>
+</tbody>
+</table>
+
+## Acquired funding and academic distinctions
+- Walter-Benjamin Fellowship (DFG) – granted in 2020, but not accepted due to personal reasons
+- Young Investigator Award 2022 – CRC 1182 “Origin and function of Metaorganisms”
+
+
+# Vacancies
+
+- [Student assistent in metabolic modeling](https://porthmeus.github.io/StudentAssistentVacancy.html)
+
+# Publications
+
+
