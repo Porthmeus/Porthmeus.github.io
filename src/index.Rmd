@@ -36,8 +36,15 @@ I am postdoc in the Kaleta-lab at the University Clinic Schleswig-Holstein, Kiel
 + Mastodon: [\@JanTaubenheim](https://mstdn.science/@JanTaubenheim)
 - ORCID: [0000-0001-7283-1768](https://orcid.org/0000-0001-7283-1768)
 
-  
+# Vacancies
 
+## With me
+
+- [Student assistent in metabolic modeling](https://porthmeus.github.io/StudentsAssistentVacancy.html)
+
+## With our group
+
+- [PhD for modeling of human microbiomes to find new therapies](https://jobs.uksh.de/job/Kiel-Doktorand-in-im-Institut-f%C3%BCr-Experimentelle-Medizin-Medizinische-Systembiologie-Schl-24105/900258101/) 
 
 # CV
 
@@ -76,9 +83,6 @@ I am postdoc in the Kaleta-lab at the University Clinic Schleswig-Holstein, Kiel
 - Young Investigator Award 2022 – CRC 1182 “Origin and function of Metaorganisms”
 
 
-# Vacancies
-
-- [Student assistent in metabolic modeling](https://porthmeus.github.io/StudentsAssistentVacancy.html)
 
 # Publications
 
