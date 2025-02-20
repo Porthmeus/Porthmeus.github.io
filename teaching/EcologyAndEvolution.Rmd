@@ -1,0 +1,27 @@
+---
+title: Ecology and Evolution
+output: 
+    prettydoc::html_pretty: 
+        theme: cayman
+        highlight: github
+        use_bookdown: TRUE
+        toc: TRUE
+---
+
+## Evolutionäre Entwicklungen des Wirtes getrieben durch Parasiten
+
+Die Folien zu meinem Lehrvortrag findet ihr hier:
+
+<a href="../teaching/eco_evo/WirtsParasitenEvolution1.pdf" target="_blank">Evolution des Wirtes aufgrund von Parasiten</a>
+
+Falls ich das Interesse geweckt habe für warum rote Königinnen und Sex was mit Parasiten zu tun haben, dann findet ihr hier Folien zu dem Thema.
+
+<a href="../teaching/eco_evo/WirtsParasitenEvolution2.pdf" target="_blank" rel="noopener noreferrer">Rote Königin und Evolution von Sex</a>
+
+### Buchempfehlungen
+
+!["Evolutionary Parasitology - The Integrated Study of Infections, Immunology, Ecology and Genetics" by Paul Schmid-Hempel, Second Edition, Oxford University Press, ISBN 978–0–19–883214–0, DOI: [10.1093/oso/9780198832140.001.0001](https://doi.org/10.1093/oso/9780198832140.001.0001) - [Internet Archive](https://archive.org/details/evolutionarypara0000schm)](../img/Evolutionary-Parasitology-The-Integrated-Study-of-Infections-Immunology-Ecology-and-Genetics-2nd-Edition_380x499.jpg "Evolutionary Parasitology")
+
+
+![ "Evolution: an introduction" by Stephen C. Stearns and Rolf F. Hoekstra, Second Edition, Oxford University Press, ISBN 978-0199255634 - [Internet Archive](https://archive.org/details/evolutionintrodu0000stea/page/n1/mode/2up) ](../img/EvolutionAnIntroduction_StephenStearns.jpg "Evolution: an introduction")
+
