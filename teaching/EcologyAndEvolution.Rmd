@@ -14,7 +14,7 @@ Die Folien zu meinem Lehrvortrag findet ihr hier:
 
 <a href="../teaching/eco_evo/WirtsParasitenEvolution1.pdf" target="_blank">Evolution des Wirtes aufgrund von Parasiten</a>
 
-Falls ich das Interesse geweckt habe für warum rote Königinnen und Sex was mit Parasiten zu tun haben, dann findet ihr hier Folien zu dem Thema.
+Falls ich das Interesse geweckt habe, was die rote Königin und Sex mit Parasiten zu tun haben, dann findet ihr hier Folien zu dem Thema.
 
 <a href="../teaching/eco_evo/WirtsParasitenEvolution2.pdf" target="_blank" rel="noopener noreferrer">Rote Königin und Evolution von Sex</a>
 
@@ -26,6 +26,6 @@ Falls ich das Interesse geweckt habe für warum rote Königinnen und Sex was mit
 
 <br/><br/>
 
-![ "Evolution: an introduction" by Stephen C. Stearns and Rolf F. Hoekstra, Second Edition, Oxford University Press, ISBN 978-0199255634 - [Internet Archive](https://archive.org/details/evolutionintrodu0000stea/page/n1/mode/2up) ](../img/EvolutionAnIntroduction_StephenStearns.jpg "Evolution: an introduction")
+![ "Evolution: an introduction" by Stephen C. Stearns and Rolf F. Hoekstra, Second Edition, Oxford University Press, ISBN 978-0199255634 - [Internet Archive](https://archive.org/details/evolutionintrodu0000stea/page/mode/2up) ](../img/EvolutionAnIntroduction_StephenStearns.jpg "Evolution: an introduction")
 
 </div>
