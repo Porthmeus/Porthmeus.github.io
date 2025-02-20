@@ -20,8 +20,12 @@ Falls ich das Interesse geweckt habe für warum rote Königinnen und Sex was mit
 
 ### Buchempfehlungen
 
+<div style="text-align: center;">
+
 !["Evolutionary Parasitology - The Integrated Study of Infections, Immunology, Ecology and Genetics" by Paul Schmid-Hempel, Second Edition, Oxford University Press, ISBN 978–0–19–883214–0, DOI: [10.1093/oso/9780198832140.001.0001](https://doi.org/10.1093/oso/9780198832140.001.0001) - [Internet Archive](https://archive.org/details/evolutionarypara0000schm)](../img/Evolutionary-Parasitology-The-Integrated-Study-of-Infections-Immunology-Ecology-and-Genetics-2nd-Edition_380x499.jpg "Evolutionary Parasitology")
 
+<br/><br/>
 
 ![ "Evolution: an introduction" by Stephen C. Stearns and Rolf F. Hoekstra, Second Edition, Oxford University Press, ISBN 978-0199255634 - [Internet Archive](https://archive.org/details/evolutionintrodu0000stea/page/n1/mode/2up) ](../img/EvolutionAnIntroduction_StephenStearns.jpg "Evolution: an introduction")
 
+</div>
